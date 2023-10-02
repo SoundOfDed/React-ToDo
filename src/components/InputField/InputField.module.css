@@ -1,0 +1,12 @@
+input:checked + span {
+    text-decoration: line-through;
+    color: green;
+  }
+
+button {
+    margin-left: 10px;
+}
+
+.addTodo{
+    display: flex;
+}
